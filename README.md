@@ -1,11 +1,22 @@
 # Hello-world
 This project is to practice, how to work with GitHub flows and linter errors.
 
-Built With
+<img width="750" alt="screenShot" src="https://user-images.githubusercontent.com/22744775/170150565-fd3340e9-7d57-40a9-a199-0ef18574908f.PNG">
 
-• HTML
 
-• CSS
+# Setup
+Clone this repository
+
+$ git clone git@github.com:Sahar-AbdelSamad/Hello-Microverse.git
+$ cd Hello-Microverse
+
+Run the live server or open index.html with your browser
+
+# Built With
+
+• HTML and CSS
+
+• VSCode
 
 # Authors
 👤 Hamayoun Ali
