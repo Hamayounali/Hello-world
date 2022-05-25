@@ -7,7 +7,7 @@ This project is to practice, how to work with GitHub flows and linter errors.
 # Setup
 Clone this repository
 
-$ git clone git@github.com:Sahar-AbdelSamad/Hello-Microverse.git
+$ git clone git@github.com:Hamayounali/Hello-Microverse.git
 $ cd Hello-Microverse
 
 Run the live server or open index.html with your browser
